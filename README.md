@@ -1,1 +1,6 @@
-"# github_course" 
+Git Course
+
+Este é um repositório teste para cacaboca
+
+Raruflei Raruflou
+kasda
